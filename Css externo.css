@@ -1,0 +1,26 @@
+
+body{
+    margin: 50px;
+}
+.titulo{
+    border-width: thin;
+    color: #764e36;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.topicos{
+    border-bottom: medium;
+    background: #764e36;
+    color: #fff;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+.imagem{
+    width:500px;
+	height:200px;
+    border: 3px inset #764e36;
+    padding: 15px;
+    
+}
